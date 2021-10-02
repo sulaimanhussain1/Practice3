@@ -1,0 +1,9 @@
+.cbox {
+    height: 500px;
+    border: 2px solid red;
+}
+
+.dbox {
+    /* height: 30px; */
+    border: 2px solid blue;
+}

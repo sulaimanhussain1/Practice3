@@ -1,0 +1,48 @@
+/* <div class="row">
+<div class="col-3 order-last adiv">First</div>
+<div class="col-3 bdiv">Second</div>
+<div class="col-3 order-first cdiv">Third</div>
+<div class="col-3 ddiv">Fourth</div>
+</div> */
+
+.cbox {
+    border: 5px solid;
+}
+
+.arow {
+    border: 10px solid yellow;
+}
+
+.adiv {
+    height: 60px;
+    background-color: red;
+}
+
+
+.bdiv {
+    height: 60px;
+    background-color: gray;
+}
+
+
+.cdiv {
+    height: 60px;
+    background-color: brown;
+}
+
+
+.ddiv {
+    height: 60px;
+    background-color: green;
+}
+
+.ediv{
+    height: 60px;
+    background-color: darkmagenta;
+}
+
+
+.fdiv {
+    height: 60px;
+    background-color: blue;
+}

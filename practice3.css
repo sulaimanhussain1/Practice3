@@ -1,0 +1,41 @@
+.cbox {
+    border: 5px solid;
+}
+
+.arow {
+    border: 10px solid yellow;
+}
+
+.adiv {
+    height: 60px;
+    background-color: red;
+}
+
+
+.bdiv {
+    height: 60px;
+    background-color: gray;
+}
+
+
+.cdiv {
+    height: 60px;
+    background-color: brown;
+}
+
+
+.ddiv {
+    height: 60px;
+    background-color: green;
+}
+
+.ediv{
+    height: 60px;
+    background-color: darkmagenta;
+}
+
+
+.fdiv {
+    height: 60px;
+    background-color: blue;
+}
